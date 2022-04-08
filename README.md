@@ -1,0 +1,1 @@
+# inspection-layout-responsive
